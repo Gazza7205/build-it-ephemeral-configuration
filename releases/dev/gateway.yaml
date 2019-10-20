@@ -28,7 +28,7 @@ spec:
     replicaCount: 2
     container:
       image: docker.sutraone.com/repository/docker-hosted/gatewaydev
-      tag: '1'
+      tag: '7'
     imageCredentials:
       name: "nexus-cicd"
       registry: "docker.sutraone.com"
